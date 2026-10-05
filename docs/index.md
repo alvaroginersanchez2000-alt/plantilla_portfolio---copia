@@ -13,3 +13,8 @@ Sustituye este recordatorio por una presentación breve, sin incluir datos perso
 |fuente alimentación | DELL Model B290EM-01 |pésimo estado, y funcionable debido a la capa de polvo|
 |placa base | DELL PN:VJ4YX,ReV:A00 |perfecto estado|
 | | |observacion: recomendamos ejercer una limpieza profunda al pc|
+
+
+
+## Estado inicial
+El equipo no presenta ningun fallo a primera vista, enciende y se comporta perfectamente, pero al observar detalladamente, recomendamos una limpieza urgente y profunda debido a su deplorable estado con particulas en suspension (polvo). 
