@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from pathlib import Path
 
-ruta = Path(__file__).parent / "foto.jpg"
+ruta = Path(__file__).parent / "fotitopro.jpg"
 imagen = plt.imread(ruta)
 
 
